@@ -1,0 +1,33 @@
+#Spook {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    display: inline-block;
+    line-height: 2px;
+}
+
+#Tube {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    border: 5px black solid;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+    line-height: 1px;
+    padding: 0px 10px 0px 10px;
+}
+
+#search {
+    display: inline-block;
+    border: 10px black solid;
+    background-color: #2F2F30;
+    border-radius: 50px;
+    padding-right: 400px;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+#search input[type=placeholder ] {
+    color: white;
+}
