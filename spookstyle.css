@@ -31,7 +31,9 @@
     line-height: 1px;
     padding: 0px 10px 0px 10px;
 }
+
 /* Search bar */
+
 #search {
     border: 5px black solid;
     background-color: #2F2F30;
